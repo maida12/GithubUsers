@@ -1,18 +1,12 @@
-# Getting Started with Create React App
+# A React app that takes username as input from the user and displays GitHub user
+profiles matching the input.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For this, make an HTTP request to the GitHub API given in the
+following link:
+https://docs.github.com/en/rest/search?apiVersion=2022-11-28#search-users
+### It shows name, link to the profile, and avatar for each result
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
